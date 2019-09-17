@@ -1,0 +1,10 @@
+tile.spoils:altar.name=wish altar
+item.spoils:wish_coin.name=wish coin
+
+entity.rider_hero_red.name=rider hero red
+entity.rider_hero_blue.name=rider hero blue
+entity.rider_hero_ex_red.name=rider hero EX red
+entity.rider_hero_ex_blue.name=rider hero EX blue
+
+
+itemGroup.spoils=wish spoils

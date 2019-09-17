@@ -1,0 +1,50 @@
+item.coin.name=挑战卷轴
+item.uncoin.name=强制挑战结束卷轴
+
+item.hero_card.name=英雄卡牌
+item.magic_card.name=物品卡牌
+item.mob_card.name=怪物卡牌
+
+item.bright_ball.name=光明能量球
+item.meteorite_ball.name=陨石能量球
+
+tile.mob_altar_red.name=怪物祭坛 红方
+tile.magic_altar_red.name=物品祭坛 红方
+tile.hero_altar_red.name=英雄祭坛 红方
+tile.mob_altar_blue.name=怪物祭坛 蓝方
+tile.magic_altar_blue.name=物品祭坛 蓝方
+tile.hero_altar_blue.name=英雄祭坛 蓝方
+
+entity.rider_hero_red.name=瑞德红
+entity.rider_hero_blue.name=瑞德蓝
+entity.rider_hero_ex_red.name=瑞德EX红
+entity.rider_hero_ex_blue.name=瑞德EX蓝
+
+entity.magician_hero_red.name=绯红
+entity.magician_hero_blue.name=绯蓝
+entity.magician_hero_ex_red.name=绯EX红
+entity.magician_hero_ex_blue.name=绯EX蓝
+
+entity.shadow_hero_red.name=影 红
+entity.shadow_hero_blue.name=影 蓝
+entity.shadow_hero_ex_red.name=影 EX红
+entity.shadow_hero_ex_blue.name=影 EX蓝
+
+entity.berserker.name=巴萨卡
+
+entity.tower_zombie_red.name=塔顶僵尸 红
+entity.tower_zombie_blue.name=塔顶僵尸 蓝
+
+entity.tower_skeleton_red.name=塔顶骷髅射手 红
+entity.tower_skeleton_blue.name=塔顶骷髅射手 蓝
+
+entity.tower_spider_red.name=塔顶蜘蛛 红
+entity.tower_spider_blue.name=塔顶蜘蛛 蓝
+
+entity.sword_skeleton_red.name=塔顶骷髅剑士 红
+entity.sword_skeleton_blue.name=塔顶骷髅剑士 蓝
+
+entity.emperor_red.name=红色之王
+entity.emperor_blue.name=蓝色之王
+
+itemGroup.tower_game=塔顶之弈

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "#+#",
+    "#*#",
+    "#+#"
+  ],
+  "key":
+  {
+    "#":
+    {
+      "item": "minecraft:paper"
+    },
+    "*":
+    {
+      "item": "minecraft:bone"
+    },
+    "+":
+    {
+      "item": "minecraft:string"
+    }
+  },
+
+  "result":
+  {
+    "item": "tower_game:uncoin",
+    "count": 1
+  }
+}

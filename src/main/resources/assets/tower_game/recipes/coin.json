@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "#+#",
+    "#*#",
+    "#+#"
+  ],
+  "key":
+  {
+    "#":
+    {
+      "item": "minecraft:paper"
+    },
+    "*":
+    {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "+":
+    {
+      "item": "minecraft:string"
+    }
+  },
+
+  "result":
+  {
+    "item": "tower_game:coin",
+    "count": 1
+  }
+}

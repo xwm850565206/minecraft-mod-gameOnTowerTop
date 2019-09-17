@@ -1,0 +1,105 @@
+{
+    "fighting":
+    {
+      "category": "block",
+      "subtitle": "fighting",
+      "sounds": [{"name": "tower_game:fighting", "stream":  true}]
+    },
+
+    "entity.rider_hero.ambient":
+    {
+        "category": "entity",
+        "subtitle": "entity.rider_hero.ambient",
+        "sounds": [{"name": "tower_game:entity/rider_hero/ambient", "stream":  true}]
+    },
+    "entity.rider_hero.hurt":
+    {
+      "category": "entity",
+      "subtitle": "entity.rider_hero.hurt",
+      "sounds": [{"name": "tower_game:entity/rider_hero/hurt", "stream":  true}]
+    },
+    "entity.rider_hero.death":
+    {
+      "category": "entity",
+      "subtitle": "entity.rider_hero.death",
+      "sounds": [{"name": "tower_game:entity/rider_hero/death", "stream":  true}]
+    },
+
+
+
+    "entity.magician_hero.ambient":
+    {
+      "category": "entity",
+      "subtitle": "entity.magician_hero.ambient",
+      "sounds": [{"name": "tower_game:entity/magician_hero/ambient", "stream":  true}]
+    },
+    "entity.magician_hero.hurt":
+    {
+      "category": "entity",
+      "subtitle": "entity.magician_hero.hurt",
+      "sounds": [{"name": "tower_game:entity/magician_hero/hurt", "stream":  true}]
+    },
+    "entity.magician_hero.death":
+    {
+      "category": "entity",
+      "subtitle": "entity.magician_hero.death",
+      "sounds": [{"name": "tower_game:entity/magician_hero/death", "stream":  true}]
+    },
+
+    "entity.shadow_hero.ambient":
+    {
+      "category": "entity",
+      "subtitle": "entity.shadow_hero.ambient",
+      "sounds": [{"name": "tower_game:entity/shadow_hero/ambient", "stream":  true}]
+    },
+    "entity.shadow_hero.hurt":
+    {
+      "category": "entity",
+      "subtitle": "entity.shadow_hero.hurt",
+      "sounds": [{"name": "tower_game:entity/shadow_hero/hurt", "stream":  true}]
+    },
+    "entity.shadow_hero.death":
+    {
+      "category": "entity",
+      "subtitle": "entity.shadow_hero.death",
+      "sounds": [{"name": "tower_game:entity/shadow_hero/death", "stream":  true}]
+    },
+
+    "entity.berserker.ambient":
+    {
+      "category": "entity",
+      "subtitle": "entity.berserker.ambient",
+      "sounds": [{"name": "tower_game:entity/berserker/ambient", "stream":  true}]
+    },
+    "entity.berserker.hurt":
+    {
+      "category": "entity",
+      "subtitle": "entity.berserker.hurt",
+      "sounds": [{"name": "tower_game:entity/berserker/hurt", "stream":  true}]
+    },
+    "entity.berserker.death":
+    {
+      "category": "entity",
+      "subtitle": "entity.berserker.death",
+      "sounds": [{"name": "tower_game:entity/berserker/death", "stream":  true}]
+    },
+
+    "entity.emperor.ambient":
+    {
+      "category": "entity",
+      "subtitle": "entity.emperor.ambient",
+      "sounds": [{"name": "tower_game:entity/emperor/ambient", "stream":  true}]
+    },
+    "entity.emperor.hurt":
+    {
+      "category": "entity",
+      "subtitle": "entity.emperor.hurt",
+      "sounds": [{"name": "tower_game:entity/emperor/hurt", "stream":  true}]
+    },
+    "entity.emperor.death":
+    {
+      "category": "entity",
+      "subtitle": "entity.emperor.death",
+      "sounds": [{"name": "tower_game:entity/emperor/death", "stream":  true}]
+    }
+}
